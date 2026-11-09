@@ -1,0 +1,4 @@
+.env
+.shield_key
+__pycache__/
+*.pyc
